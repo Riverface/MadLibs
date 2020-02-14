@@ -2961,13 +2961,13 @@
   "RootNamespace": "FriendLetter",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\Views\\Home\\Form.cshtml",
-      "TargetPath": "Views\\Home\\Form.cshtml",
+      "FilePath": "c:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\Views\\Home\\MadLib.cshtml",
+      "TargetPath": "Views\\Home\\MadLib.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\Views\\Home\\Letter.cshtml",
-      "TargetPath": "Views\\Home\\Letter.cshtml",
+      "FilePath": "c:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\Views\\Home\\Form.cshtml",
+      "TargetPath": "Views\\Home\\Form.cshtml",
       "FileKind": "mvc"
     }
   ],

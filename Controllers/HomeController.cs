@@ -14,10 +14,8 @@ namespace FriendLetter.Controllers
         [Route("/letter")]
         public ActionResult Letter(string recipient, string sender)
         {
-            LetterVariable myLetterVariable = new LetterVariable();
-            myLetterVariable.Recipient = recipient;
-            myLetterVariable.Sender = sender;
-            return View(myLetterVariable);
+            MadLib libSet = new MadLib();
+            return View(libSet);
         }
         
         [Route("/form")]
