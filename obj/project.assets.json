@@ -12163,11 +12163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sonos\\Documents\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
-      "projectName": "FriendLetter",
-      "projectPath": "C:\\Users\\sonos\\Documents\\FriendLetter.Solution\\FriendLetter\\FriendLetter.csproj",
+      "projectUniqueName": "C:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\MadLibs.csproj",
+      "projectName": "MadLibs",
+      "projectPath": "C:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\MadLibs.csproj",
       "packagesPath": "C:\\Users\\sonos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sonos\\Documents\\FriendLetter.Solution\\FriendLetter\\obj\\",
+      "outputPath": "C:\\Users\\sonos\\Documents\\MadLibs.Solution\\MadLibs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
